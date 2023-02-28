@@ -1,0 +1,51 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+ 
+  .heading{
+    background-image: linear-gradient(rgb(226, 226, 174), rgb(165, 126, 165));
+    text-align:center;
+    font-size: 50px;
+    display: block;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 80px 0;
+    color: cornsilk;
+  }
+  body {
+    background-image: url('cool-background.png');
+    background-repeat: repeat;
+    text-align:center;
+  }
+   
+  h1 {
+  }
+  h2 {
+    color: cornsilk;
+    text-align:center; 
+    font-size: 40px;
+  }
+   ul{
+    
+   }
+   
+  a {
+    text-decoration: none;
+  }
+  .controller{
+    text-align:center;
+    font-size: 30px;
+    color:cornsilk;
+    
+
+  }
+  .button {
+    border-radius: 4px;
+    color: cornsilk;
+    display: block;
+    font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid blue;
+  }
